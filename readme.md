@@ -1,1 +1,1 @@
-S H A R E D       O N        C O D E L I S T . C C
+ https://github.com/AllSafeCyberSecur1ty/cryptonite1.0.0.git
